@@ -6,4 +6,5 @@ image_resource:
 
 run:
   path: echo
-  args: [Hello Mahesh Reddy Lakshmi]
+  args: [Hello Mahesh Reddy]
+
